@@ -66,7 +66,10 @@ Therefore, there are some restrictions.
    Click this red square box at the location where an exclamation mark appears above the character when a fish bites the bait to create a red square box.
    If you do not understand, please refer to Example 1, Example 2, and Example 3 in the example images.
 
-8. Once the settings are complete, everything is done. Depending on the mode, the bot continues automatic fishing.
+   * <img src="https://github.com/bgm5768/playtogetherFishBot/blob/main/usage/%EC%98%88%EC%8B%9C%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%98%88%EC%8B%9C3.png">
+
+
+9. Once the settings are complete, everything is done. Depending on the mode, the bot continues automatic fishing.
 
 
 ## Tips.
