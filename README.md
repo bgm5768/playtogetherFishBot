@@ -55,7 +55,7 @@ Therefore, there are some restrictions.
 # Usage
 1. Turn on Play Together.
 
-2. Run main.exe
+2. Run autoFish -> main.exe
 
 3. Move the character to the location for automatic fishing.
 
