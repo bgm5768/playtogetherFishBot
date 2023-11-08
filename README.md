@@ -1,6 +1,8 @@
 # playtogetherFishBot
 **Warning : Do not use commercially**
 
+<img src="https://github.com/bgm5768/playtogetherFishBot/blob/main/usage/%EC%98%88%EC%8B%9C%EC%9D%B4%EB%AF%B8%EC%A7%80/%EC%98%88%EC%8B%9C1.png">
+
 *Introduce*
 
 > This is Play Together Auto Fishbot.
