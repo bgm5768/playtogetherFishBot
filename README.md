@@ -29,6 +29,9 @@ For reference, this is an Autobot that never stops because it does not have the 
 
 5. Set PlayTogether Language Kor
 
+6. Get an executable file to simply run this repository code. repository
+   > https://github.com/bgm5768/playtogetherFishBot/releases/tag/v0
+
 # Caution
 When the bait bites, the bot mechanism performs automatic fishing by searching the exclamation point image on the character + automatic fishing through keyboard control.
 Therefore, there are some restrictions.
