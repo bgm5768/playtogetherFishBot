@@ -29,7 +29,7 @@ For reference, this is an Autobot that never stops because it does not have the 
 
 5. Set PlayTogether Language Kor
 
-6. Get an executable file to simply run this repository code. repository
+6. Download : **autoFish.zip**
    > https://github.com/bgm5768/playtogetherFishBot/releases/tag/v0
 
 # Caution
