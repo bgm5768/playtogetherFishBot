@@ -19,7 +19,7 @@ For reference, this is an Autobot that never stops because it does not have the 
   160dpi
 
 3. BlueStack game control settings
-  Download the bluestack_auto.cfg file included in the manual.
+  Download the Usage -> bluestack_auto.cfg file included in the manual.
   BlueStack Game Control -> Load bluestack_auto.cfg -> Save
   After completing this, the key value will be the same as the key setting.png in the example image.
 
